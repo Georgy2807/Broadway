@@ -1,17 +1,43 @@
 body {
   height: 1280px;
   width: 1244px;
+  /*background-image: url("/home/georgy/projects/Broadway/resourses/image/the-flatiron-building.png");*/
+}
+.header {
+  text-align: center;
+  background-image: url("/home/georgy/projects/Broadway/resourses/image/the-flatiron-building.png")
 }
 
-.header{
+.header h1 {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+  
+}
+
+.header a {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+  
+}
+
+.header  {
+  
 
 }
-.content{
+.content {
 
 }
-.midle{
+.midle {  
+  
 
 }
-.footer{
+.submidle {
+
+}
+
+.footer {
 
 }
